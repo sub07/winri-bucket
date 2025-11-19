@@ -7,7 +7,7 @@
     "64bit": {
       "url": "https://github.com/sub07/winri/releases/download/v0.1.0/winri_0.1.0_x64-setup.exe",
       "hash": "16251d28a68ff9f3b03a822a5018c329a357bef55f4ba0ca5a3ae6797acd1f6d",
-      "bin": "winri.exe"
+      "bin": "winri_0.1.0_x64-setup"
     }
   },
   "checkver": "github",
