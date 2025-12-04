@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/sub07/winri/releases/download/v0.1.0/winri.exe",
-      "hash": "6d87ae90e04af00a17e819276f6929770c1e090e2d696545b31d4b5086c29681",
+      "hash": "e7d1ffdf23358c6633d2f0c809d5a149acd81229679db9b2731eee5b557c6024",
       "bin": "winri.exe"
     }
   },
