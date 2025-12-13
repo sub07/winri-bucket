@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "todo",
   "homepage": "https://github.com/sub07/winri",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sub07/winri/releases/download/v0.2.0/winri.exe",
-      "hash": "e6e91ddd114196f165c713ab1fc3a9a6ce498099584e4a3baca2b5aa2586c642",
+      "url": "https://github.com/sub07/winri/releases/download/v0.2.1/winri.exe",
+      "hash": "c6dd67763fe764f163481057c1bd634d5de01886ef839ab3bc293f0853945aa3",
       "bin": "winri.exe"
     }
   },
